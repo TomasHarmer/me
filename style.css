@@ -269,19 +269,19 @@ main {
     align-items: center;
     gap: 0.5rem;
     padding: 0.625rem 1.25rem;
-    background: var(--primary-color);
+    background: #000000;
     color: white;
     text-decoration: none;
     border-radius: 6px;
     font-size: 0.9rem;
     font-weight: 500;
     transition: all 0.2s ease;
-    border: 1px solid var(--primary-color);
+    border: 1px solid #000000;
 }
 
 .project-link:hover {
-    background: var(--primary-dark);
-    border-color: var(--primary-dark);
+    background: #333333;
+    border-color: #333333;
     transform: translateY(-1px);
     box-shadow: var(--shadow-md);
 }
