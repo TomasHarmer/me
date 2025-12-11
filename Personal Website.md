@@ -26,12 +26,17 @@ APL to C++ Compiler
 
 ## (BiFrost)
 Thought to Silicone compiler
+FPGA Comiler
 
 ## (Glass Phone)
 Minimalist distraction-Free phone 
 
 ## (BlockSat)
 Modular Space Cubesat hardware 
+
+## (AI Video Editor)
+
+## (Job Finder)
 
 # Skills
 
