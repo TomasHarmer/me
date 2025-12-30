@@ -397,6 +397,14 @@ main {
     font-weight: 600;
 }
 
+.interest-image {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+
 .interest-card h3 {
     font-size: 1.125rem;
     color: var(--text-color);
